@@ -1,2 +1,2 @@
 #!/bin/sh
-tor -f ./torrc
+chpst -u tor tor -f ./torrc
